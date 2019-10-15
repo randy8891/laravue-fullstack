@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/.github/home-page-images/laradock-logo.jpg?raw=true" alt="Laradock Logo"/>
+    <img src="https://crtlemba.sirv.com/laravue/13902473.png" width="400" height="400" alt="Laradock Logo" />
 </p>
 
 ---
